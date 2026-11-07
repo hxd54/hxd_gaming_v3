@@ -87,3 +87,4 @@ export async function DELETE(
     return NextResponse.json({ error: 'Failed to delete game' }, { status: 500 });
   }
 }
+

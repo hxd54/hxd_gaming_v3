@@ -73,3 +73,4 @@ export async function verifyAdminCredentials(username: string, password: string)
 
   return password === expectedPass;
 }
+

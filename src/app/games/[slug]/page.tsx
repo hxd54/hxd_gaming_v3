@@ -49,3 +49,4 @@ export default async function GameDetailPage({
 
   return <GameDetailClient game={game} relatedGames={relatedGames} />;
 }
+

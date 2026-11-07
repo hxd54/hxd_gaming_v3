@@ -159,3 +159,4 @@ export function FeaturedHero({ games }: FeaturedHeroProps) {
     </section>
   );
 }
+

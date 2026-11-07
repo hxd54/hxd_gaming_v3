@@ -88,3 +88,4 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ error: 'Internal server error while contacting RAWG' }, { status: 500 });
   }
 }
+

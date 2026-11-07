@@ -350,3 +350,4 @@ export default function SubmitGamePage() {
     </div>
   );
 }
+

@@ -139,3 +139,4 @@ export function GameCard({ game, variant = 'portrait' }: GameCardProps) {
     </Link>
   );
 }
+

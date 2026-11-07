@@ -146,3 +146,4 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Failed to create game' }, { status: 500 });
   }
 }
+
