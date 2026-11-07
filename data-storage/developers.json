@@ -1,0 +1,148 @@
+[
+  {
+    "id": "dev-01",
+    "name": "HXD Interactive",
+    "slug": "hxd-interactive",
+    "logoUrl": "/images/hxd gaming_eevee_0.png",
+    "bannerUrl": "/images/home.png",
+    "bio": "Independent Rwandan game design and digital creative studio based in Kigali, focusing on experimental interactive media, racing prototypes, and regional creative projects.",
+    "location": "Kigali, Rwanda",
+    "country": "Rwanda",
+    "isAfrican": true,
+    "isRwandan": true,
+    "website": "https://hxd-gaming.vercel.app",
+    "socialLinks": [
+      {
+        "platform": "X",
+        "url": "https://x.com/haxdev54"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/hxd54"
+      }
+    ],
+    "gamesCount": 1,
+    "featured": true,
+    "verified": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "dev-02",
+    "name": "Kiro'o Games",
+    "slug": "kiroo-games",
+    "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=300&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+    "bio": "The first video game development studio in Cameroon and Central Africa. Founded by Olivier Madiba, creating rich fantasy worlds inspired by African cultural heritage and traditional folklore.",
+    "location": "Yaoundé, Cameroon",
+    "country": "Cameroon",
+    "isAfrican": true,
+    "isRwandan": false,
+    "website": "http://kiroogames.com",
+    "socialLinks": [
+      {
+        "platform": "Website",
+        "url": "http://kiroogames.com"
+      }
+    ],
+    "gamesCount": 1,
+    "featured": true,
+    "verified": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "dev-03",
+    "name": "Free Lives",
+    "slug": "free-lives",
+    "logoUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=300&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Acclaimed independent studio from Cape Town, South Africa, creators of Broforce, Genital Jousting, Terra Nil, and Anger Foot.",
+    "location": "Cape Town, South Africa",
+    "country": "South Africa",
+    "isAfrican": true,
+    "isRwandan": false,
+    "website": "https://freelives.net",
+    "socialLinks": [
+      {
+        "platform": "Website",
+        "url": "https://freelives.net"
+      },
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/developer/freelives"
+      }
+    ],
+    "gamesCount": 1,
+    "featured": true,
+    "verified": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "dev-04",
+    "name": "Supergiant Games",
+    "slug": "supergiant-games",
+    "logoUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=300&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Independent game development studio based in San Francisco, creators of Bastion, Transistor, Pyre, Hades, and Hades II.",
+    "location": "San Francisco, USA",
+    "country": "United States",
+    "isAfrican": false,
+    "isRwandan": false,
+    "website": "https://www.supergiantgames.com",
+    "socialLinks": [
+      {
+        "platform": "Website",
+        "url": "https://www.supergiantgames.com"
+      }
+    ],
+    "gamesCount": 1,
+    "featured": false,
+    "verified": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "dev-05",
+    "name": "CD PROJEKT RED",
+    "slug": "cd-projekt-red",
+    "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=300&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Award-winning studio responsible for The Witcher series and Cyberpunk 2077.",
+    "location": "Warsaw, Poland",
+    "country": "Poland",
+    "isAfrican": false,
+    "isRwandan": false,
+    "website": "https://en.cdprojektred.com",
+    "socialLinks": [
+      {
+        "platform": "Website",
+        "url": "https://en.cdprojektred.com"
+      }
+    ],
+    "gamesCount": 2,
+    "featured": false,
+    "verified": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "dev-06",
+    "name": "Valve",
+    "slug": "valve",
+    "logoUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=300&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Creators of the Steam platform and landmark video games including Half-Life, Portal, Left 4 Dead, Counter-Strike, and Team Fortress.",
+    "location": "Bellevue, USA",
+    "country": "United States",
+    "isAfrican": false,
+    "isRwandan": false,
+    "website": "https://www.valvesoftware.com",
+    "socialLinks": [
+      {
+        "platform": "Website",
+        "url": "https://www.valvesoftware.com"
+      }
+    ],
+    "gamesCount": 2,
+    "featured": false,
+    "verified": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  }
+]

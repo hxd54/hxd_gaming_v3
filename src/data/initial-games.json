@@ -1,0 +1,2640 @@
+[
+  {
+    "id": "471fa2d7-b2ca-4842-8350-47e66a5a2c46",
+    "title": "Mortal Kombat 1",
+    "description": "Mortal Kombat 1 is the latest title in the acclaimed Mortal Kombat videogame franchise developed by award-winning NetherRealm Studios. The game will introduce a reborn Mortal Kombat Universe that has been created by the Fire God Liu Kang, featuring reimagined versions of iconic characters as they\u2019ve never been seen before, along with a new fighting system, game modes, bone krushing finishing moves, and more.",
+    "shortDescription": "Mortal Kombat 1 - Action, Fighting game",
+    "imageUrl": "https://media.rawg.io/media/games/155/155087d7b9c1225cda0ab9e586b6374d.jpg",
+    "downloadUrl": "https://store.steampowered.com/app/1971870/Mortal_Kombat_1/",
+    "rating": 7,
+    "developer": "NetherRealm Studios",
+    "releaseDate": "2023-09-19",
+    "categories": [
+      "Action",
+      "Fighting"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "https://store.steampowered.com/app/1971870/Mortal_Kombat_1/",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-09-28T16:22:50.453Z",
+    "updatedAt": "2025-09-28T16:30:30.939Z",
+    "slug": "mortal-kombat-1",
+    "developerSlug": "netherrealm-studios",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/1971870/Mortal_Kombat_1/",
+        "label": "View on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "1925f834-adfe-4868-baa7-180296479fd8",
+    "title": "Dead Island 2",
+    "description": "A deadly virus is spreading across Los Angeles, California, turning its inhabitants into ravenous zombies. The city is in quarantine and the military have retreated. Bitten, infected, but more than just immune, you learn to harness the zombie inside. Only you, and the handful of other swaggering fellows who happen to be resistant to the pathogen, holds the future of LA (and humanity), in the balance. As you uncover the truth behind the outbreak you\u2019ll discover who \u2013 or what \u2013 you are. Survive, evolve, save the world \u2013 just another day in LA! The much-loved zombie saga is back with a unique formula of horror, dark humor and over the top zombie-slaying, spanning an epic pulp adventure. Dead Island 2 is a thrilling First-Person Action RPG that takes players across a brand-new playground. Stylish, vibrant and flooded with zombie infection, explore iconic, gore-drenched Los Angeles. Meet larger-than-life characters. Slay countless foes in exquisitely bloody detail. And evolve to become the ultimate Zombie Slayer. See you in HELL-A!",
+    "shortDescription": "A deadly virus is spreading across Los Angeles, turning its inhabitants into zombies. Bitten, infected, but more than just immune, uncover the truth behind the outbreak and discover who - or what - you are. Survive, evolve and become the ultimate Zombie Slayer.",
+    "imageUrl": "https://media.rawg.io/media/games/9cd/9cd22ae5aebd922f96f2bc50efab83df.jpg",
+    "downloadUrl": "https://steamunlocked.org/dead-island-2-free-download/",
+    "rating": 7,
+    "categories": [
+      "Action",
+      "Adventure"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: AMD FX-9590 / Intel Core i7-7700HQ\nMemory: 10 GB RAM\nGraphics: Radeon R9 390X (8192 VRAM) / GeForce GTX 1060 (6144 VRAM)\nDirectX: Version 12\nStorage: 70 GB GB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": true,
+    "createdAt": "2025-08-14T09:01:04.313Z",
+    "updatedAt": "2025-08-14T10:32:34.946Z",
+    "developer": "Deep Silver",
+    "releaseDate": "2024-04-22",
+    "slug": "dead-island-2",
+    "developerSlug": "deep-silver",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Dead+Island+2",
+        "label": "Search Dead Island 2 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "33f6278f-252b-43f0-ac87-51cc6748a7f4",
+    "title": "Watch Dogs 2",
+    "description": "Watch Dogs 2 is an action-adventure open-world game developed by Ubisoft Montreal. It is the second installment in the series and continues the main idea of its predecessor - hacking and hacktivism in an open world.\r\n\r\nWelcome to San-Francisco. It is the second city in the United States to install the city-wide operating system named ctOS, which connects everything from your car to your smart home to a global network. Marcus Holloway is tagged by the system as a suspect for a crime he did not commit. Marcus decides to take action and gets together with the hacktivist group DedSec to expose ctOS and its creators.\r\n\r\nWD2 offers the player an immense open world which consists of San-Francisco, Oakland, Marin and Silicon Valley. It's the player's choice to navigate the world on foot or on a wide range of vehicles from cars to boats.\r\n\r\nIt is up to the player to choose whether to use a lethal or non-lethal approach on a mission as there is always a taser in your inventory and a billiard ball attached to a paracord that knocks enemies out. \r\n\r\nIt is possible to hack into any devices that are connected to ctOS. For instance, Marcus can control forklifts, buzz guards phones in order to distract them.",
+    "shortDescription": "Welcome to San Francisco. Play as Marcus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of history.",
+    "imageUrl": "https://media.rawg.io/media/games/f52/f52cf6ba08089cd5f1a9c8f7fcc93d1f.jpg",
+    "downloadUrl": "https://steamunlocked.org/watch-dogs-2-free-download/",
+    "rating": 8,
+    "categories": [
+      "Action",
+      "Adventure"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nOS: Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions only)\nProcessor: Intel Core i5 2400s @ 2.5 GHz, AMD FX 6120 @ 3.5 GHz or better\nMemory: 6 GB RAM\nGraphics: NVIDIA GeForce GTX 660 with 2 GB VRAM or AMD Radeon HD 7870, with 2 GB VRAM or better - See supported List*\nNetwork: Broadband Internet connection\nStorage: 27 GB available space\nSound Card: DirectX compatible using the latest drivers\nAdditional Notes: Minimum specs above for 720p , 30+ FPS, Low graphic settings // Periphericals: Microsoft Xbox One Controller, DUALSHOCK\u00ae 4 Controller, Windows-compatible keyboard, mouse, optional controller / Multiplayer: 256 kbps or faster broadband connection / Note: This product supports 64-bit operating systems only. Laptop versions of these cards may work, but are not officially supported. For the most up-to-date requirement listings, please visit the FAQ on our support website at support.ubi.com.  High speed internet access and a valid Ubisoft account are required to activate the game after installation, to authenticate your system and continue gameplay after any re-activation, access online features, play online or unlock exclusive content.",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T09:00:21.684Z",
+    "updatedAt": "2025-08-14T09:06:02.516Z",
+    "developer": "Ubisoft",
+    "releaseDate": "2016-11-29",
+    "slug": "watch-dogs-2",
+    "developerSlug": "ubisoft",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Watch+Dogs+2",
+        "label": "Search Watch Dogs 2 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "5969b0ee-6510-4c86-8130-9af5d1e19162",
+    "title": "Far Cry 3",
+    "description": "Far Cry 3 is absolute madness. Being the third instalment of the franchise, it has a unique plot. Playing as Jason Brody, you will understand what it is like, to be a Rambo. Vacation on Rook Islands with your friends and family quickly turned into a complete nightmare after Vaas Montenegro kidnapping everyone from the party. Jason manages to escape the cruel pirate lord with a little help from a native supporter called Dennis. Now Brody has to save all his friends and get out of the island.\r\n\r\nTo help Jason save his friends, he will need to learn new skills. Hunting animals, crafting new weapons or different abilities in killing pirates. Skill tree has plenty to offer for the player. There are all kinds of firearms for any player, from a knife to a grenade launcher. This mechanic adds pure madness for the game process, making it very fun, fluent and full of adrenaline. Stunning views of the island, excellent surroundings and a great story make Far Cry 3 an absolute fun to play.",
+    "shortDescription": "Discover the dark secrets of a lawless island ruled by violence and take the fight to the enemy as you try to escape. You\u2019ll need more than luck to escape alive!",
+    "imageUrl": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg",
+    "downloadUrl": "https://steamunlocked.org/far-cry-3-deluxe-edition-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Shooter"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nOS:Windows XP, Windows Vista and Windows 7\nProcessor:Intel Core\u00ae2 Duo E6700 @ 2.6 GHz or AMD Athlon64 X2 6000+ @ 3.0Ghz or better\nMemory:4 GB RAM\nGraphics:512MB Video RAM (1GB Video RAM), DirectX9c (DirectX11) Shader Model 3.0 (Shader Model 5.0)\nDirectX\u00ae:9.0c\nHard Drive:15 GB HD space\nSound:DirectX Compatible  (Recommended Surround Sound 5.1 capable)\nOther Requirements:Broadband Internet connection\nAdditional:*Supported Video Cards at Time of Release: AMD Radeon\u2122 HD 2900 / 3000 / 4000 / 5000 / 6000 / 7000 series, NVIDIA\u00ae GeForce\u00ae 8800 GTX / 9 / 200 / 400 / 500 / 600 series. Laptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at http://support.ubi.com.\nRequires a UPlay account",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T09:00:06.522Z",
+    "updatedAt": "2025-08-14T09:07:27.758Z",
+    "developer": "Ubisoft",
+    "releaseDate": "2012-11-29",
+    "slug": "far-cry-3",
+    "developerSlug": "ubisoft",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer",
+      "low-spec"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Far+Cry+3",
+        "label": "Search Far Cry 3 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "453bc75d-9230-4507-a0fc-679bd8cbc582",
+    "title": "Call of Duty: Vanguard",
+    "description": "Rise on every front: Dogfight over the Pacific, airdrop over France, defend Stalingrad with a sniper\u2019s precision and blast through enemies in North Africa.\r\n\r\nExperience influential battles of World War II as you fight for victory across multiple theaters of war. The Call of Duty\u00ae: Vanguard campaign will immerse you in a deeply engaging and gripping character-driven narrative experience featuring combat on an unparalleled global scale, while also telling the harrowing stories of those who turned the tides of war and changed history forever.",
+    "shortDescription": "Call of Duty\u00ae: Vanguard includes a deeply engaging single player Campaign, a massive Multiplayer offering featuring over 20 maps including 16 built for core Multiplayer and an exciting new Zombies experience developed by Treyarch.",
+    "imageUrl": "https://media.rawg.io/media/games/fa8/fa870a46d5e3e8cb1fa0a5e4f798ff2a.jpg",
+    "downloadUrl": "https://store.steampowered.com/app/1985820/Call_of_Duty_Vanguard/",
+    "rating": 6,
+    "categories": [
+      "Shooter"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64 Bit (latest update)\nProcessor: Intel Core i3-4340 or AMD FX-6300\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 960 or AMD Radeon RX 470\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 36 GB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": true,
+    "createdAt": "2025-08-14T08:59:44.157Z",
+    "updatedAt": "2025-08-14T10:32:03.035Z",
+    "developer": "Sledgehammer Games",
+    "releaseDate": "2023-03-08",
+    "slug": "call-of-duty-vanguard",
+    "developerSlug": "sledgehammer-games",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/1985820/Call_of_Duty_Vanguard/",
+        "label": "View on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "b08aaa3f-53dc-460e-a35f-fb5cd81d7db4",
+    "title": "Ghost of Tsushima",
+    "description": "The year is 1274. Samurai warriors are the legendary defenders of Japan--until the fearsome Mongol Empire invades the island of Tsushima, wreaking havoc and conquering the local population. As one of the last surviving samurai, you rise from the ashes to fight back. But, honorable tactics won't lead you to victory. You must move beyond your samurai traditions to forge a new way of fighting--the way of the Ghost--as you wage an unconventional war for the freedom of Japan.",
+    "shortDescription": "For the very first time on PC, play through Jin Sakai\u2019s journey and discover the complete Ghost of Tsushima experience in this Director\u2019s Cut. In the late 13th century, the Mongol empire has laid waste to entire nations along their campaign to conquer the East.",
+    "imageUrl": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg",
+    "downloadUrl": "https://steamunlocked.org/ghost-of-tsushima-directors-cut-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:59:11.666Z",
+    "updatedAt": "2025-08-14T09:13:28.100Z",
+    "developer": "Sucker Punch Productions",
+    "releaseDate": "2020-07-17",
+    "slug": "ghost-of-tsushima",
+    "developerSlug": "sucker-punch-productions",
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Ghost+of+Tsushima",
+        "label": "Search Ghost of Tsushima on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "8285e66b-562b-407f-b0ed-ad7e7ec0ac4b",
+    "title": "Portal",
+    "description": "Every single time you click your mouse while holding a gun, you expect bullets to fly and enemies to fall. But here you will try out the FPS game filled with environmental puzzles and engaging story. \r\nSilent template for your adventures, Chell, wakes up in a testing facility. She\u2019s a subject of experiments on instant travel device, supervised by snarky and hostile GLaDOS.\r\nPlayers will have to complete the tests, room by room, expecting either reward, freedom or more tests. By using the gun, that shoots portals (Portal-Gun\u2122), players will move blocks, travel great distance quickly and learn about your current situation, which is unraveled through environmental storytelling. What you will be told might be different from what you will see.\r\nWhite environments will guide the player\u2019s portal placement, forcing them to pay attention to the surroundings.  Portal creates tension, allowing either solving puzzles at your own leisure or moving quickly, due to the time limit or threats.",
+    "shortDescription": "Portal\u2122 is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+    "imageUrl": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
+    "downloadUrl": "https://steamunlocked.org/portal-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum: 1.7 GHz Processor, 512MB RAM, DirectX&reg; 8.1 level Graphics Card (Requires support for SSE), Windows&reg; 7 (32/64-bit)/Vista/XP, Mouse, Keyboard, Internet Connection\r\nRecommended: Pentium 4 processor (3.0GHz, or better), 1GB RAM, DirectX&reg; 9 level Graphics Card, Windows&reg; 7 (32/64-bit)/Vista/XP, Mouse, Keyboard, Internet Connection",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:58:33.062Z",
+    "updatedAt": "2025-08-14T09:15:11.996Z",
+    "developer": "Valve",
+    "releaseDate": "2007-10-10",
+    "slug": "portal",
+    "developerSlug": "valve",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "best-indie",
+      "low-spec"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Portal",
+        "label": "Search Portal on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "a58e1b1c-bc81-4eaf-a762-3772f563c7c3",
+    "title": "Grand Theft Auto IV",
+    "description": "Every crime story is a story of a search for success. The player will become Niko Bellic, immigrant arriving at the Liberty City to reunite with his cousin Roman and find the man that betrayed him and his army unit fifteen years prior to the events of the game. While protecting his cousin, Niko has to deal with loan sharks, Russian mobsters, and other gangs. After the third game, GTA brought more realism to the player, in order to make the city and its people look more believable. Street vendors on every corner will sell food that replenishes health, bars with playable dart boards, bowling alleys and even comedy clubs and movie theatres. Open world will allow players not only hang out with important NPC in order to receive bonuses and unlocks but taking girls on the dates as well, to help Niko settle. Multiplayer mode allows up to 32 players to explore the copy of the single-player city and initiate multiplayer activities, like races or Deathmatches.",
+    "shortDescription": "Niko Bellic, Johnny Klebitz and Luis Lopez all have one thing in common - they live in the worst city in America. Liberty City worships money and status, and is heaven for those who have them and a living nightmare for those who don't.",
+    "imageUrl": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+    "downloadUrl": "https://steamunlocked.org/grand-theft-auto-iv-the-complete-edition-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "OS: Windows Vista - Service Pack 1 / Windows XP - Service Pack 3                    \nProcessor: Intel Core 2 Duo 1.8GHz, AMD Athlon X2 64 2.4GHz                    \nMemory: 1.5GB XP / 1.5GB Vista                    \nGraphics: 256MB Nvidia 7900 / 256MB ATI X1900                    \nDirectX Version: DirectX 9.0c Compliant Card                     \nHard Drive: 16GB of Hard Disc Space                     \nSound Card: 5.1 Channel Audio Card                     \nOther Requirements: Initial activation requires internet connection; Online play requires log-in to Games For Windows - Live and Rockstar Games Social Club (13+ to register); software installations required including Adobe Flash, DirectX, Microsoft\u2019s .NET Framework 3.0, Games For Windows - LIVE, and Internet Explorer.                    ",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:58:15.633Z",
+    "updatedAt": "2025-08-14T09:17:28.384Z",
+    "developer": "Rockstar Games",
+    "releaseDate": "2020-03-24",
+    "slug": "grand-theft-auto-iv",
+    "developerSlug": "rockstar-games",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Grand+Theft+Auto+IV",
+        "label": "Search Grand Theft Auto IV on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "b8d4c921-01f6-4cbf-aad6-efc817b8791d",
+    "title": "Grand Theft Auto: San Andreas",
+    "description": "Grand Theft Auto - San Andreas is the seventh entry in the series in the GTA franchise, but only second big title after GTA - Vice City. Setting up in fictional state San Andreas, you follow the story of CJ, a member of one of the multiple gangs in the city. CJ's family is being attacked in drive shooting which resulted in the death of CJ's mother, so he returns to home from Liberty City. Meeting the rest of the family at his mom's funeral, he decides to rebuild the gang and gain control of the state.\r\n\r\nThe game makes a brilliant connection with missions and open world actions that you are able to do around the cities. You can steal cars, buy guns, hunt for collectables and do some side quests, while different characters give you specific missions in order to push the plot forward. Streets are filled with people as well as plenty of vehicles to steal. Fictional brands of cars, tanks, bikes are available to be stolen from any place around the city. Armoury contains pistols, rifles, hand-machine guns or a rocket launcher as well as melee weapons giving player freedom in anything he's doing in GTA.",
+    "shortDescription": "Grand Theft Auto: San Andreas: It\u2019s the early \u201990s. After a couple of cops frame him for homicide, Carl \u2018CJ\u2019 Johnson is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets.",
+    "imageUrl": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg",
+    "downloadUrl": "https://steamunlocked.org/grand-theft-auto-san-andreas-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nOS: Microsoft\u00ae Windows\u00ae 2000/XP\nProcessor: 1Ghz Pentium III or AMD Athlon Processor\nMemory: 256MB of RAM\nGraphics: 64MB Video Card (Geforce 3 or better)\nHard Drive: 3.6GB of free hard disk space (minimal install)\nOther Requirements: Software installations required including DirectX and Sony DADC SecuROM\nPartner Requirements: Please check the terms of service of this site before purchasing this software.",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:57:59.887Z",
+    "updatedAt": "2025-08-14T09:20:29.816Z",
+    "developer": "Rockstar Games",
+    "releaseDate": "2023-01-19",
+    "slug": "grand-theft-auto-san-andreas",
+    "developerSlug": "rockstar-games",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "low-spec"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Grand+Theft+Auto:+San+Andreas",
+        "label": "Search Grand Theft Auto: San Andreas on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "c1115da8-1352-47f8-a244-0bb5cfbe4310",
+    "title": "Marvel's Spider-Man",
+    "description": "Marvel's Spider-Man offers the player to take on the role of the most famous Marvel superhero.\r\n\r\n###Plot\r\nThe game introduces Spider-Man as an already experienced superhero. By the time the game begins, Peter has captured the infamous Kingpin as well as several other supervillains. Now, a gang that goes by the name of Demons poses a new danger to New York. Meanwhile, Peter is working for the scientist Otto Octavius, who didn't yet become Dr. Octopus, on their science project. Throughout the game, Spidey has to deal with multiple enemies, such as Norman Osbourne, Electro, Vulture, Rhino and Kingpin, among others.\r\n\r\n###Gameplay\r\nThe player controls Peter Parker, aka Spider-Man, from the third person view. There are also sections of the game in which the player controls other protagonists, namely Mary Jane and Miles Morales. The game is set in a 3D environment that is modeled after New York City. The player can travel the city using web slings, running, jumping, and crawling the walls. The setting includes numerous high-rise buildings designed specifically for Spider-Man's movements.\r\n\r\nAs the player progresses, he or she unlocks new suits that grant Spider-Man new abilities, such as additional attacks or enhanced Spider-Sense. The abilities are not tied to the suits, however, and the player can use the suit of his or her choice without losing the ability. The combat system is similar to that in Batman: Arkham, in that Spider-Man fights many opponents in hand-to-hand combat but avoids killing them.",
+    "shortDescription": "In Marvel\u2019s Spider-Man Remastered, the worlds of Peter Parker and Spider-Man collide in an original action-packed story. Play as an experienced Peter Parker, fighting big crime and iconic villains in Marvel\u2019s New York. Web-swing through vibrant neighborhoods and defeat villains with epic",
+    "imageUrl": "https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg",
+    "downloadUrl": "https://steamunlocked.org/marvels-spider-man-miles-morales-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:57:11.334Z",
+    "updatedAt": "2025-08-14T09:23:16.615Z",
+    "developer": "Insomniac Games",
+    "releaseDate": "2022-08-12",
+    "slug": "marvels-spider-man",
+    "developerSlug": "insomniac-games",
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Marvel's+Spider-Man",
+        "label": "Search Marvel's Spider-Man on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "f443afb2-6c02-4c54-8a14-8e374bf8953d",
+    "title": "God of War Ragnar\u00f6k",
+    "description": "THE NORSE SAGA CONTINUES\r\nFrom Santa Monica Studio and brought to PC in partnership with Jetpack Interactive comes God of War Ragnar\u00f6k, an epic and heartfelt journey that follows Kratos and Atreus as they struggle with holding on and letting go.\r\n\r\nThe sequel to the critically acclaimed God of War (2018), God of War Ragnar\u00f6k picks up with Fimbulwinter well underway. Kratos and Atreus must journey to each of the Nine Realms in search of answers as Odin\u2019s forces in Asgard prepare for a prophesied battle that will end the world.\r\n\r\nAlong the way, they will explore stunning, mythical landscapes, and face fearsome enemies in the form of Norse gods and monsters. As the threat of Ragnar\u00f6k grows ever closer, Kratos and Atreus must choose between the safety of their family and the safety of the realms.",
+    "shortDescription": "Kratos and Atreus embark on a mythic journey for answers before Ragnar\u00f6k arrives \u2013 now on PC.",
+    "imageUrl": "https://media.rawg.io/media/screenshots/3c4/3c4c51b66741363d83b56ce66b1240ec.jpg",
+    "downloadUrl": "https://steamunlocked.org/god-of-war-ragnarok-digital-deluxe-edition-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64-bit\nProcessor: Intel i5-4670k or AMD Ryzen 3 1200\nMemory: 8 GB RAM\nGraphics: NVIDIA GTX 1060 (6GB) or AMD RX 5500 XT (8GB) or Intel Arc A750\nDirectX: Version 12\nStorage: 190 GB available space\nAdditional Notes: Windows version 2004 2020-05-27 19041. 6GB GPU is required",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:55:27.418Z",
+    "updatedAt": "2025-08-14T09:25:53.483Z",
+    "developer": "Santa Monica Studio",
+    "releaseDate": "2024-08-14",
+    "slug": "god-of-war-ragnar-k",
+    "developerSlug": "santa-monica-studio",
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=God+of+War+Ragnar\u00f6k",
+        "label": "Search God of War Ragnar\u00f6k on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "00d876b6-525d-4fdd-87be-b17f5056a0d4",
+    "title": "Hitman: Blood Money",
+    "description": "Money Talks. Silence Pays. Prepare to Make a Killing. When assassins from Agent 47's contract agency, The ICA, are eliminated in a series of hits, it seems a larger, more powerful agency has entered the fray. Sensing he may be a target, 47 travels to America, and prepares to make a killing.",
+    "shortDescription": "Money Talks. Silence Pays. Prepare to Make a Killing. When assassins from Agent 47's contract agency, The ICA, are eliminated in a series of hits, it seems a larger, more powerful agency has entered the fray. Sensing he may be a target, 47 travels to America, and prepares to make a killing.",
+    "imageUrl": "https://media.rawg.io/media/games/233/233cdc08cce0228f6f35222eca3bff92.jpg",
+    "downloadUrl": "https://steamunlocked.org/hitman-blood-money-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Shooter"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum: \nMicrosoft Windows\u00ae 2000/XP (Windows 95/98/ME/NT Not Supported)\nPentium 4 1.5Ghz or Athlon XP Equivalent\n512MB RAM\n100% DirectX 9.0c compatible video card which supports Hardware TnL and Pixel Shader 2.0 (GeForce FX / Radeon 9500 or higher)\n100% DirectX 9.0c Compatible Sound Card\n5.0GB free disk space\n100% Windows 2000/XP compatible Mouse and Keyboard (Gamepads and controller are not supported)Recommended: \nPentium 4 2.4Ghz or Athlon XP/64-bit equivalent \n1024MB RAM\nATI X800 series, Nvidia GeForce 6800 series or higher video card\n100% DirectX 9.0c Compatible Sound Card, Sound Blaster X-Fi series\n5.0GB free disk space ",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:55:07.123Z",
+    "updatedAt": "2025-08-14T09:27:36.475Z",
+    "developer": "Io-Interactive A/S",
+    "releaseDate": "2006-05-30",
+    "slug": "hitman-blood-money",
+    "developerSlug": "io-interactive-a-s",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer",
+      "low-spec"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Hitman:+Blood+Money",
+        "label": "Search Hitman: Blood Money on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "1626cb12-8089-4a28-b744-7945ee12b595",
+    "title": "Half-Life 2",
+    "description": "Gordon Freeman became the most popular nameless and voiceless protagonist in gaming history. He is painted as the most famous scientist and a hero within the world of Half-Life, and for a good reason. In the first game he saved the planet from alien invasion, this time, when the invasion is already begun, the world needs his help one more time. And you, as a player, will help this world to survive. This time Gordon arrives in City 17, ravaged and occupied by Combines, where he meets his old Black Mesa friends. \r\nWhat is different, aside from the overall design quality, is the use of Valve\u2019s Source engine that not only expands on the fluidity of character model animations and movement but allows players to interact with a myriad of objects with the advanced and realistic (to an extent) physics. Classic Headcrab Zombies are revamped and have new variants that provide players with different threats. For a story-driven FPS, Half-Life 2 is unique in its plot delivery, and making in-game mechanics feel natural, be it platforming or driving.",
+    "shortDescription": "Reawakened from stasis in the occupied metropolis of City 17, Gordon Freeman is joined by Alyx Vance as he leads a desperate human resistance. Experience the landmark first-person shooter packed with immersive world-building, boundary-pushing physics, and exhilarating combat.",
+    "imageUrl": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
+    "downloadUrl": "https://steamunlocked.org/half-life-2-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Shooter"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\r\n\r\nOS: Windows 7, Vista, XP\r\n\r\nProcessor: 1.7 Ghz\r\n\r\nMemory: 512 MB RAM\r\n\r\nGraphics: DirectX 8.1 level Graphics Card (requires support for SSE)\r\n\r\nStorage: 6500 MB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:54:48.628Z",
+    "updatedAt": "2025-08-14T09:29:27.504Z",
+    "developer": "Valve",
+    "releaseDate": "2004-11-16",
+    "slug": "half-life-2",
+    "developerSlug": "valve",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer",
+      "low-spec"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Half-Life+2",
+        "label": "Search Half-Life 2 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "68677bb0-9c8d-4517-951d-d0263a2cbc80",
+    "title": "Mass Effect 2",
+    "description": "Mass Effect II is a sequel to Mass Effect one, following the story of Captain Shepard in his or her journey in saving the Galaxy from Reapers. Just after the fight against Saren, Shepard dies and drifts in open space. Being collected by Cerberus and the lead man, The Illusive Man, Shepard has to investigate attacks on human colonies around the Milky Way, and discover that now the Reapers using some new insectoid called the Collectors. \r\n\r\nYou can choose from different classes to play, for example, a Soldier, Adept or Vanguard. A cover system is the main mechanic in the fight, as you have to think about fighting your enemy strategically. Your talents have a global CDR, so choose wisely. With one little addition, now your weapon has a loaded magazine of bullets, and you can run out of ammo if not using your weapon properly. \r\n\r\nBioWare sticks to the tradition of dialogue and reputation system, as your actions still affect your position in the world. If you act like a hero and help everyone you meet, people will like you and your reputation will be Paragon. Do the exact opposite and a Renegade. Whom will you be?",
+    "shortDescription": "Are you prepared to lose everything to save the galaxy? You'll need to be, Commander Shepard. It's time to bring together your greatest allies and recruit the galaxy's fighting elite to continue the resistance against the invading Reapers.",
+    "imageUrl": "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg",
+    "downloadUrl": "https://steamunlocked.org/mass-effect-2-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "OS: Windows XP SP3 / Windows Vista SP1 / Windows 7\nProcessor: 1.8GHz Intel Core 2 Duo or equivalent AMD CPU\nMemory: 1 GB RAM for Windows XP / 2 GB RAM for Windows Vista and Windows 7\nGraphics: 256 MB (with Pixel Shader 3.0 support)\nDirectX\u00ae: DirectX 9.0c August 2008 (included)\nHard Drive: 15 GB\nSound: DirectX 9.0c compatible\nSupported Chipsets: NVIDIA GeForce 6800 or greater; ATI Radeon X1600 Pro or greater. Please note that NVIDIA GeForce 7300, 8100, 8200, 8300, 8400, and 9300; ATI Radeon HD3200, and HD4350 are below minimum system requirements. Updates to your video and sound card drivers may be required.\n",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:54:29.976Z",
+    "updatedAt": "2025-08-14T09:31:17.428Z",
+    "developer": "BioWare",
+    "releaseDate": "2010-01-26",
+    "slug": "mass-effect-2",
+    "developerSlug": "bioware",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Mass+Effect+2",
+        "label": "Search Mass Effect 2 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "de12a72a-7760-4e11-bd08-6be6544baa1d",
+    "title": "Elden Ring",
+    "description": "The Golden Order has been broken.\r\n\r\nRise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.\r\n\r\nIn the Lands Between ruled by Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered.\r\n\r\nMarika's offspring, demigods all, claimed the shards of the Elden Ring known as the Great Runes, and the mad taint of their newfound strength triggered a war: The Shattering. A war that meant abandonment by the Greater Will.\r\n\r\nAnd now the guidance of grace will be brought to the Tarnished who were spurned by the grace of gold and exiled from the Lands Between. Ye dead who yet live, your grace long lost, follow the path to the Lands Between beyond the foggy sea to stand before the Elden Ring.",
+    "shortDescription": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "imageUrl": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+    "downloadUrl": "https://steamunlocked.org/elden-ring-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nOS: Windows 10\nProcessor: INTEL CORE I5-8400 or AMD RYZEN 3 3300X\nMemory: 12 GB RAM\nGraphics: NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB\nDirectX: Version 12\nStorage: 60 GB available space\nSound Card: Windows Compatible Audio Device\nAdditional Notes: ",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:53:32.357Z",
+    "updatedAt": "2025-08-14T09:32:37.634Z",
+    "developer": "FromSoftware, Inc.",
+    "releaseDate": "2022-02-25",
+    "slug": "elden-ring",
+    "developerSlug": "fromsoftware-inc",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Elden+Ring",
+        "label": "Search Elden Ring on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "381d0b33-579b-4665-bf19-e239ce25366b",
+    "title": "Red Dead Redemption 2",
+    "description": "America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs. Those who will not surrender or succumb are killed. \r\n\r\nAfter a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.\r\n\r\nFrom the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America at the dawn of the modern age.",
+    "shortDescription": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
+    "imageUrl": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
+    "downloadUrl": "https://steamunlocked.org/red-dead-redemption-2-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 7 - Service Pack 1 (6.1.7601)\nProcessor: Intel\u00ae Core\u2122 i5-2500K / AMD FX-6300\nMemory: 8 GB RAM\nGraphics: Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB\nNetwork: Broadband Internet connection\nStorage: 150 GB available space\nSound Card: Direct X Compatible",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:53:08.271Z",
+    "updatedAt": "2025-08-14T09:34:40.185Z",
+    "developer": "Rockstar Games",
+    "releaseDate": "2019-12-05",
+    "slug": "red-dead-redemption-2",
+    "developerSlug": "rockstar-games",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Red+Dead+Redemption+2",
+        "label": "Search Red Dead Redemption 2 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "c0b4719b-234b-470a-806d-1573a83d5d04",
+    "title": "Atomfall",
+    "description": "Deluxe EditionBuy the Atomfall Deluxe Edition to receive:\u2022\u00a0 \u00a0The entire Atomfall game\u2022\u00a0 \u00a0\u201cStory Expansion Pack\u201d \u2013 (*not available Day 1):\u2022\u00a0 \u00a0\u201cBasic Supply Bundle\u201d Pack\u2022\u00a0 \u00a0\u201cEnhanced Supply Bundle\u201d Pack\r\nAbout the GameA survival-action game inspired by real-life events, Atomfall is set five years after the Windscale nuclear disaster in Northern England.Explore the fictional quarantine zone, scavenge, craft, barter, fight and talk your way through a British countryside setting filled with bizarre characters, mysticism, cults, and rogue government agencies.From Rebellion, the studio behind Sniper Elite and Zombie Army, Atomfall will challenge you to solve the dark mystery of what really happened.Player Driven Mystery:\u00a0Unravel a tapestry of interwoven narratives through exploration, conversation, investigation, and combat, where every choice you make has consequences.Search, Scavenge, Survive:\u00a0You\u2019ll need to scavenge for supplies, craft weapons and items, and fight desperately to make it out alive!Desperate Combat:\u00a0With weapons and ammunition scarce, each frenetic engagement will see you blend marksmanship with vicious hand-to-hand combat. Manage your heart rate to hold a steady aim and ensure you have the energy you need to reach for your cricket bat and land the killer blow.Green and Unpleasant Land:\u00a0The picturesque British countryside, with rolling green hills, lush valleys, and rural villages belie the dangers that await you. Navigate cult-controlled ruins, natural caves, nuclear bunkers and more as you explore this dense, foreboding world.Reimagining Windscale:\u00a0A fictional reimagining of a real-world event, Atomfall draws from science fiction, folk horror, and Cold War influences to create a world that is eerily familiar yet completely alien.",
+    "shortDescription": "A nuclear disaster has left an area of Britain in tatters. Atomfall, a new survival-action game, will see you explore, scavenge, craft, barter and fight your way through beautifully recreated scenery in search of answers.",
+    "imageUrl": "https://media.rawg.io/media/games/5b0/5b044517a778ed67435bd71efc98395d.jpg",
+    "downloadUrl": "https://store.steampowered.com/app/801800/Atomfall/",
+    "rating": 7,
+    "categories": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 or later\nProcessor: Intel CPU Core i5-9400f or equivalent\nMemory: 16 GB RAM\nGraphics: Nvidia 2060 6GB or equivalent\nDirectX: Version 12\nStorage: 60 GB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:52:52.043Z",
+    "updatedAt": "2025-08-14T09:36:24.930Z",
+    "developer": "Rebellion",
+    "releaseDate": "2025-05-27",
+    "slug": "atomfall",
+    "developerSlug": "rebellion",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/801800/Atomfall/",
+        "label": "View on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "c5e15d86-d587-49ee-9434-6c26e4182f50",
+    "title": "Wuchang: Fallen Feathers",
+    "description": "Set in the chaotic final years of the Ming Dynasty, WUCHANG: Fallen Feathers is an exploration of the hauntingly beautiful landscapes of imperial China and the battle against mysterious forces that transform a grim reality to supernatural horror.",
+    "shortDescription": "WUCHANG: Fallen Feathers is a soulslike, action RPG set in the land of Shu during the dark and tumultuous late Ming Dynasty, plagued with warring factions and a mysterious illness spawning monstrous creatures.",
+    "imageUrl": "https://media.rawg.io/media/games/bce/bcee4b00b58e05d52b8bb032ff7117f4.jpg",
+    "downloadUrl": "https://steamunlocked.org/wuchang-fallen-feathers-free-download/",
+    "rating": 7,
+    "categories": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nOS: Windows10 64bit\nProcessor: Intel Core i5-8400/AMD Ryzen 5 1600\nMemory: 16 GB RAM\nGraphics: NVIDIA GeForce GTX 1060 6GB/AMD Radeon RX 580 8GB\nDirectX: Version 12\nStorage: 60 GB available space\nAdditional Notes: HDD Supported, SSD Recommended. The above specifications were tested with DLSS/FSR enabled.",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:50:12.216Z",
+    "updatedAt": "2025-08-14T09:37:37.885Z",
+    "developer": "Leenzee",
+    "releaseDate": "2025-07-24",
+    "slug": "wuchang-fallen-feathers",
+    "developerSlug": "leenzee",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Wuchang:+Fallen+Feathers",
+        "label": "Search Wuchang: Fallen Feathers on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "4bf15f62-18eb-4435-934f-95e3ff440f0a",
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "The third game in a series, it holds nothing back from the player. Open world adventures of the renowned monster slayer Geralt of Rivia are now even on a larger scale. Following the source material more accurately, this time Geralt is trying to find the child of the prophecy, Ciri while making a quick coin from various contracts on the side. Great attention to the world building above all creates an immersive story, where your decisions will shape the world around you.\r\n\r\nCD Project Red are infamous for the amount of work they put into their games, and it shows, because aside from classic third-person action RPG base game they provided 2 massive DLCs with unique questlines and 16 smaller DLCs, containing extra quests and items.\r\n\r\nPlayers praise the game for its atmosphere and a wide open world that finds the balance between fantasy elements and realistic and believable mechanics, and the game deserved numerous awards for every aspect of the game, from music to direction.",
+    "shortDescription": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri \u2014 the Child of Prophecy, a living weapon that can alter the shape of the world.",
+    "imageUrl": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+    "downloadUrl": "https://steamunlocked.org/the-witcher-3-wild-hunt-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:47:10.736Z",
+    "updatedAt": "2025-08-14T10:31:04.129Z",
+    "developer": "CD PROJEKT RED",
+    "releaseDate": "2015-05-18",
+    "slug": "the-witcher-3-wild-hunt",
+    "developerSlug": "cd-projekt-red",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=The+Witcher+3:+Wild+Hunt",
+        "label": "Search The Witcher 3: Wild Hunt on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "a8e93c46-4d00-4dfc-80c1-de1c7779fff8",
+    "title": "Warhammer 40,000: Space Marine 2",
+    "description": "EDITIONS BREAKDOWN\r\nAbout the Game\r\nEmbody the superhuman skill and brutality of a Space Marine. Unleash deadly abilities and devastating weaponry to obliterate the relentless Tyranid swarms. Defend the Imperium in spectacular third-person action in solo or multiplayer modes.\r\nFight the enemies of Mankind as Lieutenant Demetrian Titus in this sequel to 2011\u2019s Space Marine, and prove your loyalty once again as you are reinstated to the Ultramarines. Hold at bay the horrors of the galaxy in epic battles on far-flung planets and uncover dark secrets to drive back the everlasting night.\r\nDive into a war of galactic proportions! Enjoy intense, gory and fast-paced third-person action with hundreds of enemies on screen, and purge the relentless Tyranid swarms made possible by Saber\u2019s trademark Swarm Engine.\r\nJump in endlessly brutal and replayable PvE and PvP modes as your own Space Marines, unlocking new skills and cosmetics the more you play! Fight as one of six unique classes, unlock up to 25 perks for each class, add perks to each of your weapons, and customise your appearance with a huge array of armour and weapon cosmetics!\r\n",
+    "shortDescription": "Embody the superhuman skill and brutality of a Space Marine. Unleash deadly abilities and devastating weaponry to obliterate the relentless Tyranid swarms. Defend the Imperium in spectacular third-person action in solo or multiplayer modes.",
+    "imageUrl": "https://media.rawg.io/media/screenshots/30f/30f44a25cf60d110adc0614f11c413bc.jpg",
+    "downloadUrl": "https://steamunlocked.org/warhammer-40000-space-marine-2-free-download/",
+    "rating": 8,
+    "categories": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 (1903 min)/11 64-bit\nProcessor: AMD Ryzen 5 2600X / Intel Core i5-8600K\nMemory: 8 GB RAM\nGraphics: 6 GB VRAM, AMD Radeon RX 580 / Nvidia GeForce GTX 1060\nDirectX: Version 12\nStorage: 75 GB available space\nAdditional Notes: SSD required. 30 FPS in 1920x1080 with &quot;Low&quot; preset.",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:46:58.290Z",
+    "updatedAt": "2025-08-14T09:42:10.383Z",
+    "developer": "Saber Interactive",
+    "releaseDate": "2024-09-09",
+    "slug": "warhammer-40-000-space-marine-2",
+    "developerSlug": "saber-interactive",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Warhammer+40,000:+Space+Marine+2",
+        "label": "Search Warhammer 40,000: Space Marine 2 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "6c972e91-00b2-4e39-b33b-5c8b77a2f424",
+    "title": "Valorant",
+    "description": "VALORANT is your global competitive stage. It\u2019s a 5v5 tac-shooter matchup to plant or defuse the Spike in a one-life-per-round, first to 13 series. More than guns and bullets, you\u2019ll choose an Agent armed with adaptive, swift, and lethal abilities that create opportunities to let your gunplay shine.\r\n\r\nCreativity is your greatest weapon.\r\n\r\n## The Agents\r\n\r\nAgents and their signature abilities are how you win with skill and style. Adapt and outplay in the role of either a Duelist, Initiator, Controller, or Sentinel.\r\n\r\n## The Maps\r\n\r\nHaven. Bind. Split. Ascent. Each a stage for a multitude of savvy plays, agent clutches, and team strategies.\r\nUnique with their own strategic environment",
+    "shortDescription": "Valorant is a 2020 first-person tactical hero shooter video game developed and published by Riot Games. A free-to-play game, Valorant takes inspiration from the Counter-Strike series, borrowing several mechanics such as the buy menu, spray patterns, and inaccuracy while moving.",
+    "imageUrl": "https://media.rawg.io/media/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg",
+    "downloadUrl": "https://playvalorant.com/en-us/",
+    "rating": 7,
+    "categories": [
+      "Action",
+      "Shooter",
+      "Strategy"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:46:43.323Z",
+    "updatedAt": "2025-08-14T09:43:52.561Z",
+    "developer": "Riot Games",
+    "releaseDate": "0020-06-02",
+    "slug": "valorant",
+    "developerSlug": "riot-games",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "free-to-play",
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Valorant",
+        "label": "Search Valorant on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "783b1777-d600-47f0-95d8-19a27446dcca",
+    "title": "Sylvio: Black Waters",
+    "description": "A stranger in an unfamiliar land, you discover a mysterious device that appears to allow you to listen to the spirits of those who once inhabited this place. The device picks up the voice of a man named Lee who claims to be the sole survivor on this planet.\r\nWith Lee\u2019s guidance, you are led to follow a trail of clues taking you deep into the physics-defying depths of the planet known as the lungs; a series of desolate sites that appear to mimic familiar forms found on earth.\r\nWith the essence of the dead entombed throughout the lungs of the planet, not every encounter is safe. Something is very wrong with this place.\r\nSylvio: Black Waters is a first-person exploration horror game from the creator of Sylvio and Sylvio 2. A glorious return-to-form with fresh mechanics, this physics defying, and puzzle-filled experience will thrill followers of the series with much to enjoy for brand new fans.\r\nPhysics bending gameplay on a world of changing gravity\r\nDecipher audio based puzzles to hear the voices of the past\r\nDecode video recordings to uncover clues\r\nDefend yourself from the aggressive dead with air powered weaponry\r\n4-6 hours of gameplay",
+    "shortDescription": "Stranded on a desolate planet, decode the whispers of the dead to survive in an enthralling atmospheric exploration horror.",
+    "imageUrl": "https://media.rawg.io/media/screenshots/c3d/c3d5ecce2dc2d479ccee455aff1701bb.jpg",
+    "downloadUrl": "https://steamunlocked.org/sylvio-black-waters-free-download/",
+    "rating": 7,
+    "categories": [
+      "Adventure"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nOS *: Windows 7 or higher\nProcessor: 2 GHz or higher\nMemory: 4 GB RAM\nGraphics: geforce 960 or higher\nDirectX: Version 11\nStorage: 5 GB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:46:27.063Z",
+    "updatedAt": "2025-08-14T10:30:41.679Z",
+    "developer": "Stroboskop",
+    "releaseDate": "2024-07-25",
+    "slug": "sylvio-black-waters",
+    "developerSlug": "stroboskop",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "best-indie"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Sylvio:+Black+Waters",
+        "label": "Search Sylvio: Black Waters on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "6ac126c8-aaf4-4a0f-b925-1b810893574a",
+    "title": "Pacific Drive",
+    "description": "Pacific Drive is a run-based, first-person driving survival game. Your car is your only companion as you navigate a surreal and anomaly-filled reimagining of the Pacific Northwest. Structured as a \u201croad-like\u201d, each excursion into the wilderness brings unique and strange challenges, as you restore and upgrade your car from an abandoned garage that acts as your home base. With the car as your lifeline, you\u2019ll unravel a long-forgotten mystery as you make your way to the heart of the Olympic Exclusion Zone.",
+    "shortDescription": "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
+    "imageUrl": "https://media.rawg.io/media/games/43e/43e69395a05af3b4d44ef3a7d50925b2.jpg",
+    "downloadUrl": "https://steamunlocked.org/pacific-drive-free-download/",
+    "rating": 8,
+    "categories": [
+      "Action",
+      "Adventure",
+      "Simulation",
+      "Racing",
+      "Indie"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: Intel Core i5 8600\nMemory: 16 GB RAM\nGraphics: Nvidia GTX 1060 6GB\nDirectX: Version 12\nStorage: 18 GB available space\nAdditional Notes: Requires a 64-bit processor and operating system",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:45:47.553Z",
+    "updatedAt": "2025-08-14T09:47:42.858Z",
+    "developer": "Ironwood Studios",
+    "releaseDate": "2024-02-22",
+    "slug": "pacific-drive",
+    "developerSlug": "ironwood-studios",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "best-indie",
+      "story-driven",
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Pacific+Drive",
+        "label": "Search Pacific Drive on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "039a4156-b3c9-4465-9304-bca6ca8fe75b",
+    "title": "Killing Floor 3",
+    "description": "EDITIONS BREAKDOWN\r\nPre-Purchase OfferPre-Order any edition of Killing Floor 3 to receive: \"Flatliner\" Weapon Skin SetFear the Reaper Weapon TrinketSpecial Action Force Player Card\r\nDigital Deluxe EditionPurchase the Digital Deluxe Edition and Receive: \u201cShadow Agent\u201d Specialist Skin Set\u201cShadow Agent\u201d Weapon Skin SetNightfall Supply Pass1000 Creds\r\nElite Nightfall EditionPurchase the Elite Nightfall Edition and Receive:- \u201cShadow Agent\u201d Specialist Skin Set- \u201cShadow Agent\u201d Weapon Skin Set- Year 1 Premium Nightfall Supply Pass Access (4 Supply Passes)- 3000 Creds\r\nAbout the GameIt\u2019s 2091. Join up with Nightfall, the last line of defense against megacorp Horzine\u2019s inhuman army of monstrous zeds. The future is in your hands\u2026 if you can survive long enough to reach it.Killing Floor 3 is the next installment in the legendary action/horror series. This intense FPS puts you in the boots of a Nightfall specialist joining forces with up to five teammates to battle waves of Zeds, earn dosh, unlock skills, and build the ultimate arsenal.Assemble the ultimate zed extermination squad for frenzied 6-player co-op. You can also brave the battlefield alone in tense single-player mode.Brace yourself for the most lethal zeds yet. Every enemy has been redesigned and retuned with smarter AI; making them faster, deadlier, and more strategic than ever.From flamethrowers to shotguns to katanas, you\u2019ll have an expansive arsenal at your disposal. Customize your own unique brand of bloodletting with hundreds of mods, gadgets, and skills to choose from.Drop into a variety of treacherous hot zones where you\u2019ll have to contain the further spread of the Outbreak. Thankfully, you can use the environment to your advantage by activating turrets, fans, and other devastating traps.Our M.E.A.T. System returns to deliver even more realistic carnage. Featuring additional points of dismemberment and persistent blood, the game responds to your attacks with gruesome authenticity.",
+    "shortDescription": "It\u2019s 2091 and megacorp Horzine has produced the ultimate army: an obedient horde of bioengineered monsters called zeds. Now, join the rebel group Nightfall in this co-op action/horror FPS that puts you and your teammates in a battle for the future of humanity.",
+    "imageUrl": "https://media.rawg.io/media/screenshots/295/2959907ac9aefa3657fcdc36c7e3bcf9.jpg",
+    "downloadUrl": "https://steamunlocked.org/killing-floor-3-free-download/",
+    "rating": 7,
+    "categories": [
+      "Action"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: AMD Ryzen 5 2600 or Intel Core i7-4790\nMemory: 16 GB RAM\nGraphics: NVIDIA GeForce GTX 1060, AMD Radeon RX 480 or or Intel Arc A580\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 30 GB available space\nAdditional Notes: SSD Required",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:45:29.196Z",
+    "updatedAt": "2025-08-14T09:49:00.346Z",
+    "developer": "Tripwire Interactive",
+    "releaseDate": "2025-07-24",
+    "slug": "killing-floor-3",
+    "developerSlug": "tripwire-interactive",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Killing+Floor+3",
+        "label": "Search Killing Floor 3 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "a800f585-4d27-455b-88aa-177c5a667433",
+    "title": "HELLDIVERS 2",
+    "description": "Digital Deluxe Edition\r\nEdition includes:\r\n\u2018DP-53\u202fSavior of the Free\u2019 Armor Set.\r\n\u2018Will of the People\u2019 Cape.\r\n\u2018MP-98 Knight\u2019 Weapon.\r\nSuper Citizen Status.\r\nStratagem Hero Ship Game.\r\n\u2018Steeled Veterans\u2019 Premium Warbond.\r\nAbout the Game\r\nThe Galaxy\u2019s Last Line of Offence.\r\nEnlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.\r\nURGENT BROADCAST \u2013 SUPER EARTH ARMED FORCESFreedom. Peace. Democracy.\r\nYour Super Earth-born rights. The key pillars of our civilization.\r\nOf our very existence.\r\nBut the war rages on. And everything is once again under threat.\r\nJoin the greatest military force the galaxy has ever seen and make this a safe and free place to live.\r\nBECOME A LEGENDYou will be assembled into squads of up to four Helldivers and assigned strategic missions.\r\nWatch each other\u2019s back \u2013 friendly fire is an unfortunate certainty of war, but victory without teamwork is impossible.\r\nLOADOUTSRain down freedom from above, sneak through enemy territory, or grit your teeth and charge head-first into the jaws of combat.\r\nHow you deliver liberty is your choice; you\u2019ll have access to a wide array of explosive firepower, life-saving armor and battle-changing stratagems\u2026 the jewel in every Helldiver\u2019s arsenal.\r\nREQUISITIONSuper Earth recognises your hard work with valuable Requisition. Use it to access different rewards that benefit you, your squad, your destroyer ship and our overall war effort.\r\nTHREATSEverything on every planet wants you dead. That\u2019s what we\u2019re dealing with.\r\nEach enemy has distinct and unpredictable characteristics, tactics, and behavior \u2013 but they all fight ferociously and without fear or morality.\r\nTHE GALACTIC WARCapturing enemy planets, defending against invasions, and completing missions will contribute to our overall effort.\r\nThis war will be won or lost depending on the actions of everyone involved.\r\nWe stand together, or we fall apart.",
+    "shortDescription": "The Galaxy\u2019s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.",
+    "imageUrl": "https://media.rawg.io/media/screenshots/d58/d58b2e611e69b02757ffc4fccda8ee74.jpg",
+    "downloadUrl": "https://store.steampowered.com/app/553850/HELLDIVERS_2/",
+    "rating": 9,
+    "categories": [
+      "Action"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: Intel Core i7-4790K or AMD Ryzen 5 1500X\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470\nStorage: 100 GB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:45:11.935Z",
+    "updatedAt": "2025-08-14T09:50:55.814Z",
+    "developer": "Arrowhead Game Studios",
+    "releaseDate": "2024-02-08",
+    "slug": "helldivers-2",
+    "developerSlug": "arrowhead-game-studios",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/553850/HELLDIVERS_2/",
+        "label": "View on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "856c18ae-cbe0-4bb7-aee1-508726316210",
+    "title": "Hades II",
+    "description": "The first-ever sequel from Supergiant Games builds on the best aspects of the original god-like rogue-like dungeon crawler in an all-new, action-packed, endlessly replayable experience rooted in the Underworld of Greek myth and its deep connections to the dawn of witchcraft.\r\nBATTLE BEYOND THE UNDERWORLD\r\nAs the immortal Princess of the Underworld, you'll explore a bigger, deeper mythic world, vanquishing the forces of the Titan of Time with the full might of Olympus behind you, in a sweeping story that continually unfolds through your every setback and accomplishment.\r\nMASTER WITCHCRAFT AND DARK SORCERY\r\nInfuse your legendary weapons of Night with ancient magick, so that none may stand in your way. Become stronger still with powerful Boons from more than a dozen Olympian gods, from Apollo to Zeus. There are nearly limitless ways to build your abilities.",
+    "shortDescription": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+    "imageUrl": "https://media.rawg.io/media/games/8fd/8fd2e8317849fd265ad8781c324d4ec2.jpg",
+    "downloadUrl": "https://steamunlocked.org/hades-ii-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Indie"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64-bit\nProcessor: Dual Core 2.4 GHz\nMemory: 8 GB RAM\nGraphics: GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630\nStorage: 10 GB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:45:00.420Z",
+    "updatedAt": "2025-08-14T10:30:14.007Z",
+    "developer": "Supergiant Games",
+    "releaseDate": "2024-05-06",
+    "slug": "hades-ii",
+    "developerSlug": "supergiant-games",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "best-indie",
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Hades+II",
+        "label": "Search Hades II on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "def8b1f1-88dc-46f4-83c6-e567a4d7e51d",
+    "title": "Dune: Awakening",
+    "description": "Dune: Awakening combines the grittiness and creativity of survival games with the social interactivity of large-scale, persistent multiplayer games to create a unique and ambitious Open World Survival MMO. Rise from survival to dominance in a vast and seamless Arrakis shared by thousands of players.\r\n\r\n\r\n\r\nSurvive the most dangerous planet in the universe. Build shelters against sandstorms, maintain your stillsuit, and master the old ways to walk even the deepest deserts. Avoid or be devoured by the colossal sandworms that dwell beneath the sands.\r\n\r\nExplore the ever-changing face of Arrakis. Walk the ruins of long-forgotten biological testing stations, scavenge the wreckage of fallen spaceships, and wander the dusty halls of abandoned sietches. Head into unmapped sectors and be the first to discover secrets and riches before the coriolis storms once again shift the sands and alter the landscape.\r\n\r\nControl the spice, control Arrakis. Hunt for spice blooms and deploy your harvester, then protect it from opportunistic raiders and rival factions. Soak the sand in blood as massive battles shift seamlessly from foot to vehicles and from ground to ornithopters in the sky.\r\n\r\nMake plans within plans. Make a name for yourself among the inhabitants of Arrakis. Wield intrigue and force to influence the Landsraad and impact the world. Build your own faction through spice harvesting, trade, subterfuge, and open conflict.\r\n\r\nAwaken the sleeper. Tailor every aspect of your character. Consume spice to conquer your senses and acquire powerful abilities. Hone your craft to become sought out for the finest creations. Construct your fortress in the style of your choosing. The journey is yours to shape.",
+    "shortDescription": "Rise from survival to greatness and challenge the power of an Imperium in Dune: Awakening, a multiplayer survival game on a massive scale. Survive the sandworm, craft your ornithopter, build a home, and ascend to power on an open world Arrakis shared with hundreds of other players.",
+    "imageUrl": "https://media.rawg.io/media/games/593/593c074cdf1ea15b8c9a2513676020e6.jpg",
+    "downloadUrl": "https://store.steampowered.com/app/1172710/Dune_Awakening/",
+    "rating": 8,
+    "categories": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Massively Multiplayer"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64-bit (or newer)\nProcessor: Intel Core i5-7400 / AMD Ryzen 3 1200\nMemory: 16 GB RAM\nGraphics: NVIDIA GeForce GTX 1060 (6 GB) / AMD Radeon 5600XT (6 GB)\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 60 GB available space\nAdditional Notes: SSD required",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:44:20.915Z",
+    "updatedAt": "2025-08-14T09:54:14.789Z",
+    "developer": "Funcom",
+    "releaseDate": "2025-06-10",
+    "slug": "dune-awakening",
+    "developerSlug": "funcom",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/1172710/Dune_Awakening/",
+        "label": "View on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "acceca7d-349d-4358-ad77-26dee6b57151",
+    "title": "Diablo IV",
+    "description": "Meet Your Maker\r\n\r\nLilith has returned to Sanctuary, summoned by a dark ritual after eons in exile. Her return ushers in an age of darkness and misery.\r\n\r\nSanctuary, a land once ravaged by war between the High Heavens and Burning Hells, has fallen once more into darkness. Lilith, daughter of Mephisto, Lord of Hatred, has been summoned by dark ritual after eons in exile. Now, hatred threatens to consume Sanctuary as evil spreads and a new wave of cultists and worshippers arise to embrace Lilith\u2019s coming. Only a brave few dare to face this threat\u2026\r\n\r\nForge your path through the corrupt lands of Sanctuary \u2013 a continuous, ever-growing, and fully explorable world, teeming with choices, quests, corruption, and loot. Join fellow adventurers, retake besieged towns, delve into nightmarish dungeons, and uncover lost secrets as you fight for the fate of the world. Every inch of Diablo IV is built for adventure, with multiple zones to explore freely, each ripe with non-linear quests, epic bosses, discoverable towns, and multitudes of demons to slay.\r\n\r\nCreate and customize your character to become steadfast in the face of darkness. Choose from one of five classes and forge your hero from an abundance of different cosmetics, talents, and abilities, creating a character that is uniquely your own. Grow stronger as your character progresses through powerful Skill Trees, developing even more unique end game specializations with Paragon Boards to dramatically impact your gameplay.\r\n\r\nDefeating great evil requires great gear. Discover and experiment with a vast arsenal of powerful weapons, armor, and more to fight back against the demons threatening these lands. Embrace the many powers of your collection by exploring unique combinations to battle in immersive, action-packed combat against the deadliest of enemies with devastating results.",
+    "shortDescription": "Join the fight for Sanctuary in Diablo\u00ae IV, the ultimate action RPG adventure. Experience the critically acclaimed campaign and new seasonal content",
+    "imageUrl": "https://media.rawg.io/media/games/77d/77d51f8f4a07c3eecb0f8504027b1bf0.jpg",
+    "downloadUrl": "https://store.steampowered.com/app/2344520/Diablo_IV/",
+    "rating": 8,
+    "categories": [
+      "Action",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows\u00ae 10 version 1909 or newer\nProcessor: Intel\u00ae Core\u2122 i5-2500K or AMD\u2122 FX-8350\nGraphics: NVIDIA\u00ae GeForce\u00ae GTX 660 or Intel\u00ae Arc\u2122 A380 or AMD Radeon\u2122 R9 280\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 90 GB available space\nAdditional Notes: *1080p native resolution / 720p render resolution, low graphics settings, 30fps, SSD Required",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:44:02.737Z",
+    "updatedAt": "2025-08-14T09:55:52.890Z",
+    "developer": "Blizzard Entertainment, Inc.",
+    "releaseDate": "2023-10-17",
+    "slug": "diablo-iv",
+    "developerSlug": "blizzard-entertainment-inc",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/2344520/Diablo_IV/",
+        "label": "View on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "c0606203-823e-4818-b85d-77ff3a470748",
+    "title": "Alan Wake 2",
+    "description": "Alan Wake 2 is a survival horror game with an intense atmosphere and a twisted, layered, psychological story - it is the long awaited sequel to Remedy Entertainment's award-winning 2010 psychological thriller, Alan Wake, and 2021's Alan Wake Remastered.",
+    "shortDescription": "Alan Wake 2 is a 2023 survival horror video game developed by Remedy Entertainment and published by Epic Games Publishing. ",
+    "imageUrl": "https://media.rawg.io/media/games/5b9/5b963d7633cd640fa2dbc4069d1c6377.jpg",
+    "downloadUrl": "https://steamunlocked.org/alan-wake-2-deluxe-edition-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:42:53.505Z",
+    "updatedAt": "2025-08-14T09:57:47.712Z",
+    "developer": "Remedy Entertainment",
+    "releaseDate": "2023-10-23",
+    "slug": "alan-wake-2",
+    "developerSlug": "remedy-entertainment",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Alan+Wake+2",
+        "label": "Search Alan Wake 2 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "ead8b36a-44e7-40ec-8941-5034030e4073",
+    "title": "Baldur's Gate III",
+    "description": "Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power.\r\n\r\nMysterious abilities are awakening inside you, drawn from a Mind Flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil.\r\n\r\nFrom the creators of Divinity: Original Sin 2 comes a next-generation RPG, set in the world of Dungeons and Dragons.\r\n\r\nChoose from a wide selection of D&D races and classes, or play as an origin character with a hand-crafted background. Adventure, loot, battle and romance as you journey through the Forgotten Realms and beyond. Play alone, and select your companions carefully, or as a party of up to four in multiplayer.\r\n\r\nAbducted, infected, lost. You are turning into a monster, but as the corruption inside you grows, so does your power. That power may help you to survive, but there will be a price to pay, and more than any ability, the bonds of trust that you build within your party could be your greatest strength. Caught in a conflict between devils, deities, and sinister otherworldly forces, you will determine the fate of the Forgotten Realms together.\r\n\r\nForged with the new Divinity 4.0 engine, Baldur\u2019s Gate 3 gives you unprecedented freedom to explore, experiment, and interact with a world that reacts to your choices. A grand, cinematic narrative brings you closer to your characters than ever before, as you venture through our biggest world yet.\r\n\r\nThe Forgotten Realms are a vast, detailed and diverse world, and there are secrets to be discovered all around you -- verticality is a vital part of exploration. Sneak, dip, shove, climb, and jump as you journey from the depths of the Underdark to the glittering rooftops of the Upper City. How you survive, and the mark you leave on the world, is up to you.",
+    "shortDescription": "Baldur\u2019s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+    "imageUrl": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+    "downloadUrl": "https://steamunlocked.org/baldurs-gate-3-free-download/",
+    "rating": 9,
+    "categories": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\r\n\r\nRequires a 64-bit processor and operating system\r\n\r\nOS: Windows 7 SP1 64-bit\r\n\r\nProcessor: Intel i5-4690 / AMD FX 4350\r\n\r\nMemory: 8 GB RAM\r\n\r\nGraphics: Nvidia GTX 780 / AMD Radeon R9 280X\r\n\r\nDirectX: Version 11\r\n\r\nStorage: 150 GB available space\r\n\r\nAdditional Notes: Default API is Vulkan 1.1. Directx11 API also provided. The minimum requirements might decrease over the course of Early Access, as performance improves.",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": true,
+    "createdAt": "2025-08-14T08:42:23.480Z",
+    "updatedAt": "2025-08-14T10:00:09.887Z",
+    "developer": "Larian Studios",
+    "releaseDate": "2023-08-03",
+    "slug": "baldurs-gate-iii",
+    "developerSlug": "larian-studios",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Baldur's+Gate+III",
+        "label": "Search Baldur's Gate III on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "af975925-1f19-4e67-bf94-52d78a98a1e0",
+    "title": "Cyberpunk 2077",
+    "description": "Cyberpunk 2077 is a science fiction game loosely based on the role-playing game Cyberpunk 2020.\r\n\r\n###Setting\r\nThe game is set in the year 2077 in a fictional futuristic metropolis Night City in California. In the world of the game, there are developed cybernetic augmentations that enhance people's strength, agility, and memory. The city is governed by corporations. Many jobs are taken over by the robots, leaving a lot of people poor and homeless. Night City has a roaring underworld, with black markets, underground surgeons, drug dealers, and street gangs abound.\r\n\r\n###Characters\r\nThe main protagonist is fully customizable, including his or her sex and appearance, and goes by the nickname V. He or she is an underground mercenary who does \u201cdirty business\u201d for the various contractors. An NPC companion named Jackie joins the protagonist early at the game, and various other companions may join the player on certain missions as the plot demands. However, the game has no parties and no companion system.\r\n\r\n###Gameplay\r\nThe player controls V from the first person view, with the third-person view used for cutscenes only. The protagonist can travel across the city on feet or using various vehicles, in a manner some observers compared to GTA series. There are many options for the character customization, including three character classes, and a variety of augmentations V can install to enhance his or her abilities.",
+    "shortDescription": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City \u2014 a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+    "imageUrl": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
+    "downloadUrl": "https://steamunlocked.org/cyberpunk-2077-free-download/",
+    "rating": 8,
+    "categories": [
+      "Action",
+      "Shooter",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\r\n\r\n\r\nOS: Windows 7 or 10 (64-bit)\r\n\r\nCPU: Intel Core i5-3570K or AMD FX-8310\r\n\r\nRAM: 8GB\r\n\r\nGPU: Nvidia GeForce GTX 780 3GB or AMD Radeon RX 470\r\n\r\nVRAM: 3GB\r\n\r\nDirect X: Version 12\r\n\r\nAvailable Storage Space: 70GB HDD \r\n\r\nGFX Setting Game Can Be Played On: Low",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": true,
+    "createdAt": "2025-08-14T08:41:35.108Z",
+    "updatedAt": "2025-08-14T10:26:19.655Z",
+    "developer": "CD PROJEKT RED",
+    "releaseDate": "2020-12-10",
+    "slug": "cyberpunk-2077",
+    "developerSlug": "cd-projekt-red",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "story-driven",
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Cyberpunk+2077",
+        "label": "Search Cyberpunk 2077 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "383480f1-ce4a-439f-89b8-77c601a7f32c",
+    "title": "Tony Hawk's Pro Skater 3 + 4",
+    "description": "Digital Deluxe EditionPurchase the Digital Deluxe Edition to skate as the Doom Slayer and rip and tear through a ton of additional content.The Digital Deluxe Edition includes:The Doom Slayer and The Revenant playable skaters, each includes 2 secret moves. The Doom Slayer includes 2 unique outfits and the Unmaykr Hoverboard skate deck.Additional songs included with the in-game soundtrackExclusive Doom Slayer, Revenant, and Create-a-Skater skate decksExclusive themed Create-a-Skater ItemsWireframe Tony Shader\r\nAbout the GameGet hyped for the legendary franchise to return with Tony Hawk\u2019s\u2122 Pro Skater\u2122 3 + 4. Everything you loved is back, but revamped with more skaters, new parks, gnarlier tricks, eardrum shattering music, plus a whole lot more.Reunite the crew with cross-platform online Multiplayer* for up to 8 skaters in new and returning game modes.Drop in to new parks or tear it up across the timeless parks from both Tony Hawk\u2019s\u2122 Pro Skater\u2122 3 & Tony Hawk\u2019s\u2122 Pro Skater\u2122 4, authentically remade in jaw dropping 4K** resolution with streamlined goals and the epic 2-minute format.Hit \u2018em with some drip in the expanded Create-A-Skater and Create-A-Park modes, including the ability to create custom goals to share with friends for the first time ever.Shred harder than ever with more challenging goals and an enhanced New Game+ mode.Whether you\u2019re a total casual or a grungy pro, the same smooth handling and simple-to-learn controls from Tony Hawk\u2019s\u2122 Pro Skater\u2122 1 + 2 will have you shredding like a Pro.Alert the neighborhood watch and grab your skate buddies because the shred\u2019s not dead. It\u2019s back and better than ever.",
+    "shortDescription": "Get hyped for the legendary franchise to return with Tony Hawk\u2019s\u2122 Pro Skater\u2122 3 + 4. Everything you loved is back, but revamped with more skaters, new parks, gnarlier tricks, eardrum shattering music, plus a whole lot more.",
+    "imageUrl": "https://media.rawg.io/media/games/fb5/fb5453ec554d23caa221a6c8c4fd9279.jpg",
+    "downloadUrl": "https://steamunlocked.org/tony-hawks-pro-skater-3-4-digital-deluxe-edition-free-download/",
+    "rating": 6,
+    "categories": [
+      "Simulation",
+      "Sports"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: AMD FX 6300 / Intel Core i3-4340\nMemory: 8 GB RAM\nGraphics: AMD HD 7950 / NVIDIA GTX 660\nDirectX: Version 11\nAdditional Notes: Widescreen support 21:9 / Remappable controls / Uncapped frame-rate / G-Sync / Freesync support",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:38:25.734Z",
+    "updatedAt": "2025-08-14T10:02:21.918Z",
+    "developer": "Iron Galaxy Studios",
+    "releaseDate": "2025-07-11",
+    "slug": "tony-hawks-pro-skater-3-4",
+    "developerSlug": "iron-galaxy-studios",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Tony+Hawk's+Pro+Skater+3+++4",
+        "label": "Search Tony Hawk's Pro Skater 3 + 4 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "cc3c11af-3183-45d2-a794-abfc5abf2562",
+    "title": "The Last of Us Part II",
+    "description": "The Last of Us Part II is the sequel to the post-apocalyptic zombie game The Last of Us.\r\n\r\nPlot\r\n\r\nThe game follows Ellie, the girl who was the secondary protagonist and the player character's companion in The Last of Us. The game is set five years after the ending of the original. Both Ellie (who is by 19 now) and Joel survived and live in Jackson, Wyoming, where Ellie is dating another girl, Dina. However, the characters have to deal with the evil cult called the Seraphites, who try to sacrifice their former members. A matter of revenge forces Ellie and her friends to undertake a trip to Seattle, Washington, to kill their enemies. The major theme of the plot is Ellie's dealing with her hate issues.\r\n\r\nGameplay\r\n\r\nUnlike in the original game, the player controls Ellie instead of Joel, who now becomes her AI-controlled companion. The game features improved controls that include new options such as crawling, dodging, and a jump button. A new AI system allows the human adversaries to communicate share information with each other. The game also introduces multiplayer.",
+    "shortDescription": "Experience the winner of over 300 Game of the Year awards, now on PC. Discover Ellie and Abby\u2019s story with graphical enhancements, gameplay modes like the roguelike survival experience No Return, and more.",
+    "imageUrl": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg",
+    "downloadUrl": "https://steamunlocked.org/the-last-of-us-part-ii-remastered-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Shooter",
+      "Adventure"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:36:55.393Z",
+    "updatedAt": "2025-08-14T10:03:46.319Z",
+    "developer": "Naughty Dog LLC",
+    "releaseDate": "2025-04-03",
+    "slug": "the-last-of-us-part-ii",
+    "developerSlug": "naughty-dog-llc",
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "story-driven",
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=The+Last+of+Us+Part+II",
+        "label": "Search The Last of Us Part II on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "a8a36d5f-f84c-4106-85fe-082c5f2ffe80",
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "description": "The Elder Scrolls IV: Oblivion\u2122 Remastered modernizes the 2006 Game of the Year with all new stunning visuals and refined gameplay. Explore the vast landscape of Cyrodiil like never before and stop the forces of Oblivion from overtaking the land in one of the greatest RPGs ever from the award-winning Bethesda Game Studios.\r\n\r\nRediscover Cyrodiil\r\n\r\nJourney through the rich world of Tamriel and battle across the planes of Oblivion where handcrafted details have been meticulously recreated to ensure each moment of exploration is awe-inspiring.\r\n\r\nNavigate Your Own Story\r\n\r\nFrom the noble warrior to the sinister assassin, wizened sorcerer, or scrappy blacksmith, forge your path and play the way you want.\r\n\r\nExperience an Epic Adventure\r\n\r\nStep inside a universe bursting with captivating stories and encounter an unforgettable cast of characters. Master swordcraft and wield powerful magic as you fight to save Tamriel from the Daedric invasion.\r\n\r\nThe Complete Story\r\n\r\nExperience everything Oblivion has to offer with previously released story expansions Shivering Isles, Knights of the Nine, and additional downloadable content included in The Elder Scrolls IV: Oblivion Remastered.",
+    "shortDescription": "Explore Cyrodiil like never before with stunning new visuals and refined gameplay in The Elder Scrolls IV: Oblivion\u2122 Remastered.",
+    "imageUrl": "https://media.rawg.io/media/games/e56/e56b78444369c6b3ae92ae7f669bf8cd.jpg",
+    "downloadUrl": "https://steamunlocked.org/the-elder-scrolls-iv-oblivion-remastered-free-download/",
+    "rating": 8,
+    "categories": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 version 21H1 (10.0.19043)\nProcessor: AMD Ryzen 5 2600X, Intel Core i7-6800K\nMemory: 16 GB RAM\nGraphics: AMD Radeon RX 5700, NVIDIA GeForce 1070 Ti\nDirectX: Version 12\nStorage: 125 GB available space\nAdditional Notes: SSD Required",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:36:33.259Z",
+    "updatedAt": "2025-08-14T10:05:03.734Z",
+    "developer": "Bethesda Game Studios",
+    "releaseDate": "2025-04-22",
+    "slug": "the-elder-scrolls-iv-oblivion-remastered",
+    "developerSlug": "bethesda-game-studios",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=The+Elder+Scrolls+IV:+Oblivion+Remastered",
+        "label": "Search The Elder Scrolls IV: Oblivion Remastered on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "4f256139-5f0a-44ad-9589-c735e9400a31",
+    "title": "Fortnite",
+    "description": "Fortnite is a free-to-play online video game developed by Epic Games, released in 2017. It\u2019s best known for its Battle Royale mode, where up to 100 players compete to be the last one standing, using shooting, building, and strategy. The game also features Creative mode for building custom worlds and Save the World, a cooperative survival mode against AI enemies.\r\n\r\nIt\u2019s popular for its colorful graphics, fast-paced gameplay, and building mechanics\u2014players can construct walls, ramps, and structures in real time for defense or mobility. Fortnite regularly updates with new seasons, events, and crossover content featuring characters from movies, comics, and pop culture, keeping gameplay fresh and highly community-driven.",
+    "shortDescription": "Fortnite is a free-to-play online game by Epic Games where players battle, build, and survive in fast-paced matches. Known for its colorful style, regular updates, and pop culture crossovers, it offers modes like Battle Royale, Creative, and cooperative Save the World.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/UhPhzt3RdG4vaUCrMLoy65.jpg",
+    "downloadUrl": "fornite.com",
+    "rating": 7,
+    "categories": [
+      "Action",
+      "Adventure",
+      "Battle Royale"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": true,
+    "createdAt": "2025-08-14T08:34:43.898Z",
+    "updatedAt": "2025-08-14T10:22:53.899Z",
+    "developer": "Epic Games",
+    "releaseDate": "2017-07-21",
+    "slug": "fortnite",
+    "developerSlug": "epic-games",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer"
+    ],
+    "editorialCollections": [
+      "free-to-play",
+      "multiplayer"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Fortnite",
+        "label": "Search Fortnite on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "10663282-b878-4e0b-86f5-36f305ffdf7e",
+    "title": "Assassin's Creed Shadows",
+    "description": "A new Creed rises over Japan. \r\n\r\nLive the intertwined stories of Naoe, an adept shinobi Assassin from Iga Province, and Yasuke, the powerful African samurai of historical legend. Against the backdrop of the turbulent late Sengoku period, this remarkable duo will discover their common destiny as they usher in a new era for Japan.",
+    "shortDescription": "Experience an epic action-adventure story set in feudal Japan! Become a lethal shinobi assassin and powerful legendary samurai as you explore a beautiful open world in a time of chaos.",
+    "imageUrl": "https://media.rawg.io/media/games/526/526881e0f5f8c1550e51df3801f96ea3.jpg",
+    "downloadUrl": "https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/",
+    "rating": 6,
+    "categories": [
+      "Action",
+      "Adventure"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": true,
+    "createdAt": "2025-08-14T08:32:19.957Z",
+    "updatedAt": "2025-08-14T10:13:22.251Z",
+    "developer": "Ubisoft",
+    "releaseDate": "2025-05-20",
+    "slug": "assassins-creed-shadows",
+    "developerSlug": "ubisoft",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/",
+        "label": "View on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "7e84c547-f406-4f5c-840e-9c37415e83e1",
+    "title": "Grounded 2",
+    "description": "When you've been shrunk to the size of an ant, what was once familiar is now a wild, uncharted frontier. Traverse sprawling manmade spaces overgrown with nature with buggies that can fight alongside with you, uncover hidden secrets, and fight to survive in a world much larger than the backyard. The playground may seem familiar, but beneath its bright colors and towering structures lie mysteries hidden in plain sight. Are you ready to uncover them?\u00a0\u00a0\u202f\u00a0Survive, Adapt, Overcome\u00a0\u00a0The world is relentless, but so are you. Shape your adventure with unique archetypes, each offering distinct abilities to match your playstyle. Whether you rely on precision, cunning, or sheer strength, you\u2019ll need every advantage to survive against the threats lurking in the park.\u00a0\u00a0\u202f\u00a0Stronger Together\u00a0\u00a0The perils of the park are daunting alone, but with friends, every challenge becomes an adventure. Work together to build, fight, and uncover the secrets buried beneath the grass. Whether you\u2019re facing danger side by side or continuing your journey in a shared world, survival is always better with allies.\u00a0\u00a0\u202f\u00a0Walking is Bogus\u00a0\u00a0\u00a0 Introducing Buggies\u00a0They scurry, they fight, and now\u2014they help you survive. Hatch, raise, and ride your own insect friends - buggies! Saddle up and ride through the park, command them in battle, or have them help gather resources. The right partner could mean the difference between thriving and barely surviving.\u00a0\u00a0\u202f\u00a0A Shadow That Follows You\u00a0\u00a0The threat is always there\u2014watching, learning, waiting. You don\u2019t know where it\u2019s coming from, only that it never leaves. The deeper you dig, the closer it gets. Some mysteries should stay buried, but it\u2019s too late now. It knows you\u2019re looking. And it\u2019s ready. Every answer drags you deeper, every step invites something closer. You were never alone. You thought you were in control. You were wrong.",
+    "shortDescription": "Shrunk again, but the world is much larger. In this open-world, single-player or co-op survival adventure, craft weapons and armor, build your base, and traverse the playground on your buggy. But something else is out there\u2014and it hasn\u2019t forgotten you.",
+    "imageUrl": "https://media.rawg.io/media/screenshots/bec/bec3638a24cfdd879ce2b2fc20a0c259.jpg",
+    "downloadUrl": "https://steamunlocked.org/grounded-2-free-download/",
+    "rating": 7,
+    "categories": [
+      "Action",
+      "Adventure"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10/11 with updates\nProcessor: AMD Ryzen 5 2600 / Intel i5-8400\nMemory: 16 GB RAM\nGraphics: AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580\nDirectX: Version 12\nStorage: 40 GB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-14T08:30:14.349Z",
+    "updatedAt": "2025-08-14T10:14:34.748Z",
+    "developer": "Obsidian Entertainment, Eidos-Montr\u00e9al",
+    "releaseDate": "2025-07-29",
+    "slug": "grounded-2",
+    "developerSlug": "obsidian-entertainment-eidos-montr-al",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Grounded+2",
+        "label": "Search Grounded 2 on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "7b307432-188c-41c3-a76b-3919fb085b1e",
+    "title": "Grand Theft Auto V",
+    "description": "Rockstar Games went bigger, since their previous installment of the series. You get the complicated and realistic world-building from Liberty City of GTA4 in the setting of lively and diverse Los Santos, from an old fan favorite GTA San Andreas. 561 different vehicles (including every transport you can operate) and the amount is rising with every update. \r\nSimultaneous storytelling from three unique perspectives: \r\nFollow Michael, ex-criminal living his life of leisure away from the past, Franklin, a kid that seeks the better future, and Trevor, the exact past Michael is trying to run away from. \r\nGTA Online will provide a lot of additional challenge even for the experienced players, coming fresh from the story mode. Now you will have other players around that can help you just as likely as ruin your mission. Every GTA mechanic up to date can be experienced by players through the unique customizable character, and community content paired with the leveling system tends to keep everyone busy and engaged.\r\n\r\nEspa\u00f1ol\r\nRockstar Games se hizo m\u00e1s grande desde su entrega anterior de la serie. Obtienes la construcci\u00f3n del mundo complicada y realista de Liberty City de GTA4 en el escenario de Los Santos, un viejo favorito de los fans, GTA San Andreas. 561 veh\u00edculos diferentes (incluidos todos los transportes que puede operar) y la cantidad aumenta con cada actualizaci\u00f3n.\r\nNarraci\u00f3n simult\u00e1nea desde tres perspectivas \u00fanicas:\r\nSigue a Michael, ex-criminal que vive su vida de ocio lejos del pasado, Franklin, un ni\u00f1o que busca un futuro mejor, y Trevor, el pasado exacto del que Michael est\u00e1 tratando de huir.\r\nGTA Online proporcionar\u00e1 muchos desaf\u00edos adicionales incluso para los jugadores experimentados, reci\u00e9n llegados del modo historia. Ahora tendr\u00e1s otros jugadores cerca que pueden ayudarte con la misma probabilidad que arruinar tu misi\u00f3n. Los jugadores pueden experimentar todas las mec\u00e1nicas de GTA actualizadas a trav\u00e9s del personaje personalizable \u00fanico, y el contenido de la comunidad combinado con el sistema de nivelaci\u00f3n tiende a mantener a todos ocupados y comprometidos.",
+    "shortDescription": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online \u2014 now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+    "imageUrl": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+    "downloadUrl": "https://steamunlocked.org/grand-theft-auto-v-free-download/",
+    "rating": 9,
+    "categories": [
+      "Action"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:OS: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHzMemory: 4 GB RAMGraphics: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)Storage: 72 GB available spaceSound Card: 100% DirectX 10 compatibleAdditional Notes: Over time downloadable content and programming changes will change the system requirements for this game.  Please refer to your hardware manufacturer and www.rockstargames.com/support for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.     Other requirements:  Installation and online play requires log-in to Rockstar Games Social Club (13+) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Social Club platform, DirectX , Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication software that recognizes certain hardware attributes for entitlement, digital rights management, system, and other support purposes.     SINGLE USE SERIAL CODE REGISTRATION VIA INTERNET REQUIRED; REGISTRATION IS LIMITED TO ONE ROCKSTAR GAMES SOCIAL CLUB ACCOUNT (13+) PER SERIAL CODE; ONLY ONE PC LOG-IN ALLOWED PER SOCIAL CLUB ACCOUNT AT ANY TIME; SERIAL CODE(S) ARE NON-TRANSFERABLE ONCE USED; SOCIAL CLUB ACCOUNTS ARE NON-TRANSFERABLE.  Partner Requirements:  Please check the terms of service of this site before purchasing this software.",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": true,
+    "createdAt": "2025-08-13T21:56:29.661Z",
+    "updatedAt": "2025-08-14T10:15:49.842Z",
+    "developer": "Rockstar Games",
+    "releaseDate": "2025-05-04",
+    "slug": "grand-theft-auto-v",
+    "developerSlug": "rockstar-games",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Grand+Theft+Auto+V",
+        "label": "Search Grand Theft Auto V on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "c37b0d6a-038b-4346-8bbd-6b6be5b5dea2",
+    "title": "Split Fiction",
+    "description": "Embrace mind-blowing moments as you\u2019re pulled deep into the many worlds of Split Fiction, a boundary-pushing co-op action adventure from the studio behind 2021 Game of the Year Winner, It Takes Two. Mio and Zoe are contrasting writers \u2013 one writes sci-fi and the other writes fantasy \u2013 who become trapped in their own stories after being hooked up to a machine designed to steal their creative ideas. They\u2019ll have to rely on each other to break free with their memories in-tact, working together to master a variety of abilities and overcome diverse challenges while jumping between sci-fi and fantasy worlds in this unexpected tale of friendship.\r\n\r\nSplit Fiction is a unique action-adventure experience that keeps you on the edge of your couch with unexpected moments. One minute you\u2019re taming adorable dragons and the next you\u2019re fighting as cyber ninjas, escaping terrifying trolls, or dodging hover cars thrown by a robotic parking attendant. It\u2019s weird, it\u2019s wild, and it\u2019s designed to be shared.\r\n\r\nGrab your co-op partner and get ready to overcome any obstacle thrown your way.",
+    "shortDescription": "Embrace mind-blowing moments as you\u2019re pulled deep into the many worlds of Split Fiction, a boundary-pushing co-op adventure.",
+    "imageUrl": "https://media.rawg.io/media/games/02a/02ac22b3b90717dabaa535640c38534c.jpg",
+    "downloadUrl": "Embrace mind-blowing moments as you\u2019re pulled deep into the many worlds of Split Fiction, a boundary-pushing co-op adventure.",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Adventure"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimale\u00a0:\nSyst\u00e8me d'exploitation et processeur 64 bits n\u00e9cessaires\nSyst\u00e8me d'exploitation\u00a0: 64 bit Windows 10/11\nProcesseur\u00a0: Intel Core i5-6600K or AMD Ryzen 5 2600X\nM\u00e9moire vive\u00a0: 16\u00a0GB de m\u00e9moire\nGraphiques\u00a0: NVIDIA GeForce GTX 970 - 4GB or Radeon RX 470 - 4GB\nDirectX\u00a0: Version 12\nR\u00e9seau\u00a0: connexion internet haut d\u00e9bit\nEspace disque\u00a0: 85\u00a0GB d'espace disque disponible\nNotes suppl\u00e9mentaires\u00a0: Resolution: 1920x1080 Native FPS: 30 Graphics Settings Preset: Low",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": true,
+    "createdAt": "2025-08-13T21:52:54.793Z",
+    "updatedAt": "2025-08-14T10:24:29.450Z",
+    "developer": "Hazelight Studios",
+    "releaseDate": "2025-03-04",
+    "slug": "split-fiction",
+    "developerSlug": "hazelight-studios",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [
+      "story-driven"
+    ],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=Split+Fiction",
+        "label": "Search Split Fiction on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "8a854a28-3cbd-48d5-b86d-50d8495fe5dc",
+    "title": "inZOI",
+    "description": "inZOI is a life simulation game where players step into the role of creators, shaping the world as they envision and witnessing the various stories that unfold.\r\nThrough this immersive experience, we aim to inspire players to appreciate life as the profound gift it is\u2014a journey that is filled with meaning at every turn.Step into diverse lives, brought to life with realistic graphics!inZOI features a fully functional community simulation experience where characters, known as Zois, live their lives with their own free will.\r\nZois perform actions and build relationships based on their personalities and life experiences, leading to unexpected developments such as rumors, trends, and disease.Take control of cities inspired by real-world locations and shape them into the perfect backdrop for your own stories by modifying factors such as weather, properties, and streets. All of this comes to life with stunning, realistic graphics powered by Unreal Engine 5.Bring your imagination to life with endless customizations!inZOI offers advanced customization tools, empowering creators to freely design their characters and bring their imagination to reality.Choose from over 250 customization options to create your own unique Zoi, adjusting everything from hair, skin, and physique to outfits, accessories, nail art, and more.Mix and match architectural elements like walls, roofs, stairs, fences, platforms, and gates to create unique buildings. Decorate spaces with a variety of objects, and customize your furniture to make every detail your own.Bring your characters to life using inZOI's facial and motion capture capabilities, and create stunning videos set in your world of choice.Experience the joy of unbridled creativity!inZOI uses on-device generative AI technology to provide creators with additional customization options for an intuitive creative experience.Enter text prompts to generate custom patterns and images to customize outfits, props, and furniture to your liking. Transform 2D images into in-game 3D objects or create character motions by uploading your video files.Bring your imagination to life with these powerful tools! With limitless creative freedom, the possibilities are endless!Share your creations and connect with other creators!Easily share your creations and interact with other creators using Canvas, our in-game sharing platform.\r\nShowcase your characters, homes, and stories, or find inspiration from other\u00a0creators.\r\nJoin\u00a0creators around the world on Canvas for a more connected inZOI\u00a0experience!",
+    "shortDescription": "\"Every life becomes a story\" Create your unique story by controlling and observing the lives of 'Zois'. Customize characters and build houses using inZOI's easy-to-use tools to live the life of your dreams and experience the different emotions of life created by its deep and detailed simulation.",
+    "imageUrl": "https://media.rawg.io/media/games/727/727ebb5c7711b6b6cbc1d4620ba58373.jpg",
+    "downloadUrl": "https://steamunlocked.org/inzoi-free-download/",
+    "rating": 6,
+    "categories": [
+      "Adventure",
+      "Simulation",
+      "Casual"
+    ],
+    "downloadLinks": [
+      {
+        "name": "Direct Download",
+        "url": "",
+        "size": ""
+      }
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10/11\nProcessor: Intel i5 10400, AMD Ryzen 5 3600\nMemory: 12 GB RAM\nGraphics: NVIDIA RTX 2060 (6G VRAM), AMD Radeon RX 5600 XT (6G VRAM)\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 40 GB available space",
+        "processor": "Intel Core i5-4430 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+        "storage": "50 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce RTX 3070 / AMD Radeon RX 6700 XT",
+        "storage": "50 GB SSD space"
+      }
+    },
+    "featured": false,
+    "createdAt": "2025-08-13T21:50:26.855Z",
+    "updatedAt": "2025-08-14T10:25:03.587Z",
+    "developer": "inZOI Studio",
+    "releaseDate": "2025-05-28",
+    "slug": "inzoi",
+    "developerSlug": "inzoi-studio",
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "editorialCollections": [],
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/search/?term=inZOI",
+        "label": "Search inZOI on Steam"
+      }
+    ],
+    "verificationStatus": "verified",
+    "isRwandanOrAfrican": false
+  },
+  {
+    "id": "afr-001-aurion",
+    "title": "Aurion: Legacy of the Kori-Odan",
+    "slug": "aurion-legacy-of-the-kori-odan",
+    "description": "Aurion: Legacy of the Kori-Odan is an epic 2D fantasy action-RPG developed by Kiro'o Games, the first video game studio in Central Africa (Cameroon). Inspired by African mythology, players guide Enzo Kori-Odan, king of Zama, through hand-drawn combat and deep political intrigue.",
+    "shortDescription": "Epic African-fantasy 2D Action RPG inspired by Cameroonian mythology.",
+    "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+    "developer": "Kiro'o Games",
+    "developerSlug": "kiroo-games",
+    "publisher": "Plug In Digital",
+    "releaseDate": "2016-04-14",
+    "rating": 8,
+    "categories": [
+      "Action",
+      "RPG",
+      "Indie"
+    ],
+    "featured": true,
+    "platforms": [
+      "PC"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 7 / 8 / 10",
+        "processor": "Core 2 Duo E4500 2.2GHz",
+        "memory": "4 GB RAM",
+        "graphics": "GeForce 9600 GT / Radeon HD 3850",
+        "storage": "3 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5 2.8GHz",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870",
+        "storage": "4 GB available space"
+      }
+    },
+    "officialWebsite": "http://aurionthegame.com",
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/368080/Aurion_Legacy_of_the_KoriOdan/",
+        "label": "View on Steam"
+      }
+    ],
+    "isRwandanOrAfrican": true,
+    "editorialCollections": [
+      "best-indie",
+      "story-driven",
+      "low-spec"
+    ],
+    "verificationStatus": "verified",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "afr-002-broforce",
+    "title": "Broforce",
+    "slug": "broforce",
+    "description": "Broforce is a side-scrolling run-and-gun platform game developed by Free Lives, based in Cape Town, South Africa. When evil threatens the world, the world calls on Broforce - an under-funded, over-powered paramilitary organization dealing exclusively in excessive force.",
+    "shortDescription": "Explosive, hyper-kinetic 2D action platformer from Free Lives in Cape Town.",
+    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "developer": "Free Lives",
+    "developerSlug": "free-lives",
+    "publisher": "Devolver Digital",
+    "releaseDate": "2015-10-15",
+    "rating": 9,
+    "categories": [
+      "Action",
+      "Indie",
+      "Casual"
+    ],
+    "featured": false,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "gameplayModes": [
+      "Single-player",
+      "Multiplayer",
+      "Co-op"
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows Vista or Later",
+        "processor": "Intel Core Duo or faster",
+        "memory": "4 GB RAM",
+        "graphics": "OpenGL 3.0 compliant video card",
+        "storage": "1.3 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i3 or faster",
+        "memory": "8 GB RAM",
+        "graphics": "Dedicated GPU with 1GB VRAM",
+        "storage": "2 GB available space"
+      }
+    },
+    "officialWebsite": "https://freelives.net",
+    "authorizedLinks": [
+      {
+        "platform": "Steam",
+        "url": "https://store.steampowered.com/app/274190/Broforce/",
+        "label": "View on Steam"
+      }
+    ],
+    "isRwandanOrAfrican": true,
+    "editorialCollections": [
+      "best-indie",
+      "multiplayer",
+      "low-spec"
+    ],
+    "verificationStatus": "verified",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "afr-003-kigali-drift",
+    "title": "Kigali Drift",
+    "slug": "kigali-drift",
+    "description": "Kigali Drift is an independent arcade racing prototype set through the vibrant hills and streets of Kigali, Rwanda. Developed by Rwandan indie developers exploring physics-based hill climbs, night urban circuits, and local Rwandan landmark aesthetic.",
+    "shortDescription": "Fast-paced indie hill-climb and urban drift racing set in Kigali, Rwanda.",
+    "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80",
+    "developer": "HXD Interactive",
+    "developerSlug": "hxd-interactive",
+    "publisher": "HXD Studios",
+    "releaseDate": "2025-08-10",
+    "rating": 8,
+    "categories": [
+      "Racing",
+      "Indie",
+      "Simulation"
+    ],
+    "featured": true,
+    "platforms": [
+      "PC",
+      "Mobile"
+    ],
+    "gameplayModes": [
+      "Single-player"
+    ],
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i3-6100 / AMD Ryzen 3 1200",
+        "memory": "6 GB RAM",
+        "graphics": "NVIDIA GeForce GT 1030 2GB",
+        "storage": "5 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i5-10400 / AMD Ryzen 5 3600",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 1660 Super",
+        "storage": "8 GB SSD"
+      }
+    },
+    "officialWebsite": "https://hxd-gaming.vercel.app",
+    "authorizedLinks": [
+      {
+        "platform": "Official Website",
+        "url": "https://hxd-gaming.vercel.app",
+        "label": "HXD Community Build"
+      }
+    ],
+    "isRwandanOrAfrican": true,
+    "editorialCollections": [
+      "best-indie",
+      "hidden-gems",
+      "low-spec"
+    ],
+    "verificationStatus": "verified",
+    "createdAt": "2025-08-10T00:00:00.000Z",
+    "updatedAt": "2025-08-10T00:00:00.000Z"
+  }
+]
